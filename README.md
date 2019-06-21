@@ -6,11 +6,21 @@ Better SMBW is a mod of *New Super Mario Bros. Wii*, this mod is mainly here to 
 
 For now only the Any% route is done, this include:
 
-- Removed 8-1 and 8-2 falling meteors. You can now practice these levels without problems due to RNG (especially 8-1)
-- You want to practice Bombless but you don't want to do the whole Airship ? Ok, a pipe is here for you ! This pipe go directly to the Bowser Jr. fight.
-- There are also a pipe at the begining of Bowser's Castle if you want to practice Bowser's Escape without doing the whole castle.
-- Added a pipe at the end of all Any% levels (except 8-C), that pipe go to the begining of the level if you want to practice the level again.
-- Increased the time to 999 for all levels to have more time to practice them. That allows the player to avoid to pause the game then "Exit course" and re-enter again.
+
+- 5-1: Added a propeller mushroom block before the water section for water skip practice (the prop is the brick block after the ice flower)
+- 5-3: Replaced some blocks with a propeller mushroom, ideal if you want to practice this level and if you lose your propeller.
+- 5-T/F : Added some blocks with propeller for practicing 556/546 cycle.
+- 5-4: Added a lot of blocks with propeller for 5-4 skip
+- 8-1: Replaced some blocks with a propeller mushroom. Removed meteors. No more RNG during your practice.
+- 8-2: Removed meteors for the 1st area. No other changes.
+- 8-7: Replaced some blocks with a fire flower (or mushroom if you're small). Even if practicing 8-7 is kinda dumb, I do some changes anyway.
+- 8-A: You want to practice Bombless but you don't want to do the whole Airship ? Ok, a pipe is here for you ! This pipe go directly to the Bowser Jr. fight.
+- 8-C: There are a pipe at the begining of Bowser's Castle if you want to practice Bowser's Escape without doing the whole castle.
+
+All Any% levels other changes:
+
+- Added a pipe at the end of all Any% levels, that pipe go to the begining of the level if you want to practice the level again. That allows the player to avoid to pause the game then "Exit course" and re-enter again.
+- Increased the time to 999 for all levels to have more time to practice them. 
 
 ### How to play ?
 
