@@ -10,7 +10,7 @@ For now only the Any% route is done, this include:
 - You want to practice Bombless but you don't want to do the whole Airship ? Ok, a pipe is here for you ! This pipe go directly to the Bowser Jr. fight.
 - There are also a pipe at the begining of Bowser's Castle if you want to practice Bowser's Escape without doing the whole castle.
 - Added a pipe at the end of all Any% levels (except 8-C), that pipe go to the begining of the level if you want to practice the level again.
-- Increased the time to 999 for all levels to have more time to practice them.
+- Increased the time to 999 for all levels to have more time to practice them. That allows the player to avoid to pause the game then "Exit course" and re-enter again.
 
 ### How to play ?
 
