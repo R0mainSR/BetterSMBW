@@ -30,6 +30,8 @@ Steps:
 5) Click on "Launch"
 6) That's it !
 
+If at any time you want to play to the original game, just return on the Wii menu or reboot the console to cancel the patch applies. Don't be an idiot by submitting a run on the leaderboards done on that mod OpieOP
+
 ### Features request
 
 If you've an idea to make better this mod, feel free to create an [Issue](https://github.com/R0-main/BetterSMBW/issues/new) with the "feature-req" label ! You can also contact me on Discord (Romain#0001)
