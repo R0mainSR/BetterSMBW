@@ -1,0 +1,16 @@
+<wiidisc version="1">
+	<id game="SMN" />
+	<options>
+		<section name="Better SMBW">
+			<option name="/bettersmbw">
+				<choice name="Enabled">
+					<patch id="bettersmbw" />
+				</choice>
+			</option>
+		</section>
+	</options>
+	<patch id="bettersmbw">
+		<folder external="/bettersmbw" recursive="false" />
+		<folder external="/bettersmbw" disc="/" />
+	</patch>
+</wiidisc>
