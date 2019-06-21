@@ -14,7 +14,7 @@ For now only the Any% route is done, this include:
 - 8-1: Replaced some blocks with a propeller mushroom. Removed meteors. No more RNG during your practice.
 - 8-2: Removed meteors for the 1st area. No other changes.
 - 8-7: Replaced some blocks with a fire flower (or mushroom if you're small). Even if practicing 8-7 is kinda dumb, I do some changes anyway.
-- 8-A: You want to practice Bombless but you don't want to do the whole Airship ? Ok, a pipe is here for you ! This pipe go directly to the Bowser Jr. fight.
+- 8-A: You want to practice Bombless but you don't want to do the whole Airship ? Ok, a pipe is here for you ! This pipe goes directly to the Bowser Jr. fight.
 - 8-C: There are a pipe at the begining of Bowser's Castle if you want to practice Bowser's Escape without doing the whole castle.
 
 All Any% levels other changes:
