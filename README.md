@@ -19,7 +19,7 @@ For now only the Any% route is done, this include:
 
 All Any% levels other changes:
 
-- Added a pipe at the end of all Any% levels, that pipe go to the begining of the level if you want to practice the level again. That allows the player to avoid to pause the game then "Exit course" and re-enter again.
+- Added a pipe at the end of all Any% levels, that pipe goes to the begining of the level if you want to practice the level again. That allows the player to avoid to pause the game then "Exit course" and re-enter again.
 - Increased the time to 999 for all levels to have more time to practice them. 
 
 ### How to play ?
