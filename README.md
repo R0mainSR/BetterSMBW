@@ -45,3 +45,7 @@ If at any time you want to play to the original game, just return on the Wii men
 ### Features request
 
 If you've an idea to make better this mod, feel free to create an [Issue](https://github.com/R0-main/BetterSMBW/issues/new) with the "feature-req" label ! You can also contact me on Discord (Romain#0001)
+
+### Tools used for this mod
+
+- Level edition: [Reggie Next M3](https://github.com/aboood40091/Reggie-Next-M3) by AboodXD
