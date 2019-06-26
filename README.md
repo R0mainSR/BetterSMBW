@@ -10,12 +10,12 @@ For now only the Any% route is done, this include:
 - 5-1: Added a propeller mushroom block before the water section for water skip practice (the prop is the brick block after the ice flower)
 - 5-3: Replaced some blocks with a propeller mushroom, ideal if you want to practice this level and if you lose your propeller.
 - 5-T/F : Added some blocks with propeller for practicing 556/546 cycle.
-- 5-4: Added a lot of blocks with propeller for 5-4 skip
+- 5-4: Added a lot of blocks with propeller for 5-4 skip. Added an extra area to reset the music if the player want to redo this level with powless strat. Added some extra POW blocks as well for no powless practice.
 - 8-1: Replaced some blocks with a propeller mushroom. Removed meteors. No more RNG during your practice.
-- 8-2: Removed meteors for the 1st area. No other changes.
+- 8-2: Removed meteors for the 1st area. Added some extra stars at the goomba section if the player do the level again.
 - 8-7: Replaced some blocks with a fire flower (or mushroom if you're small). Even if practicing 8-7 is kinda dumb, I do some changes anyway.
 - 8-A: You want to practice Bombless but you don't want to do the whole Airship ? Ok, a pipe is here for you ! This pipe goes directly to the Bowser Jr. fight.
-- 8-C: There are a pipe at the begining of Bowser's Castle if you want to practice Bowser's Escape without doing the whole castle.
+- 8-C: There are a pipe at the begining of Bowser's Castle if you want to practice Bowser's Escape without doing the whole castle. Also a door is at the end of Bowser's escape if you want to return at the beginning of Bowser's escape, the big switch is still available if the player wants to trigger the credits of the game though.
 
 All Any% levels other changes:
 
