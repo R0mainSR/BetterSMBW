@@ -33,7 +33,7 @@ Requirements:
 
 Steps:
 
-1) Download the mod at the [releases](https://github.com/R0-main/BetterSMBW/releases) section
+1) Download the mod at the [releases](https://github.com/R0-main/BetterSMBW/releases) section (actual version: v1.2)
 2) Extract the zip to the **root** of your SD Card
 3) Put your SD card and power on your console with your disc and boot Riivolution (the ways of booting are different depending of the console, check the links above for more info)
 4) Put "BetterSMBW" as enabled, if you've other patches, make sure to **disable** them before launching the game !
