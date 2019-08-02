@@ -2,7 +2,7 @@
 	<id game="SMN" />
 	<options>
 		<section name="Better SMBW">
-			<option name="/bettersmbw">
+			<option name="Better SMBW">
 				<choice name="Enabled">
 					<patch id="bettersmbw" />
 				</choice>
