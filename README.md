@@ -28,7 +28,7 @@ Requirements:
 - A Wii or Wii U
 - A New Super Mario Bros. Wii disc (region doesn't matter)
 - An SD Card or SDHC Card (SDHC is only compatible on Wii, you need a normal SD Card if you're on Wii U)
-- Riivolution (an homebrew app to patch Wii games), Here is a tutorial to how to install this app on [Wii](https://newerteam.com/wii/help/ihasnohomebrew.html) , check this one if you're on [Wii U](https://wiiu.hacks.guide/vwii-modding)
+- Riivolution (an homebrew app to patch Wii games), Here is a tutorial to how to install this app on [Wii](https://newerteam.com/wii/help/ihasnohomebrew.html) , check this one if you're on [Wii U](https://newerteam.com/wii/help/wiiu.html)
 
 Steps:
 
