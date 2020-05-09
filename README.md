@@ -2,24 +2,15 @@
 
 Better SMBW is a mod of *New Super Mario Bros. Wii*, this mod is mainly here to help NSMBW runners for practice.
 
-### Changes vs. vanilla NSMBW
+### Main changes
 
-For now only the Any% route is done, this include:
-
-
-- 5-1: Added a propeller mushroom block before the water section for water skip practice (the prop is the brick block after the ice flower)
-- 5-3: Replaced some blocks with a propeller mushroom, ideal if you want to practice this level and if you lose your propeller.
-- 5-4: Added a lot of blocks with propeller for 5-4 skip. Added an extra area to reset the music if the player want to redo this level with powless strat. Added some extra POW blocks as well for no powless practice.
-- 8-1: Replaced some blocks with a propeller mushroom. Removed meteors. No more RNG during your practice.
-- 8-2: Removed meteors for the 1st area. Added some extra stars at the goomba section if the player do the level again.
-- 8-7: Replaced some blocks with a fire flower (or mushroom if you're small). Even if practicing 8-7 is kinda dumb, I do some changes anyway.
-- 8-A: You want to practice Bombless but you don't want to do the whole Airship ? Ok, a pipe is here for you ! This pipe goes directly to the Bowser Jr. fight. Also added a reset door on Bowser Jr.'s fight to reset the fight, ideal for Bombless fans.
-- 8-C: There are a pipe at the begining of Bowser's Castle if you want to practice Bowser's Escape without doing the whole castle. Also a door is at the end of Bowser's escape if you want to return at the beginning of Bowser's escape, the big switch is still available if the player wants to trigger the credits of the game though.
-
-All Any% levels other changes:
-
-- Added a door at the end of all Any% levels (except a pipe for 8-7), that door/pipe goes to the begining of the level if you want to practice the level again. That allows the player to avoid to pause the game then "Exit course" and re-enter again.
-- Increased the time to infinite for all levels.
+- No time limit (except 8-2 because of an issue) so you can practice the level as long as you want.
+- Added doors at the end of each level (except 8-7) if you want to restart them from the begining without exiting.
+- Reset pipe in 8-Airship to reset the Bowser Jr. fight, ideal to practice bombless. Also added a pipe at the start of 8-Airship to go to the Bowser Jr. fight directly without doing the whole level.
+- Pipe at the start of 8-Castle so you can start directly to Bowser's escape. Also added a door right before the final switch if you want to redo Bowser's escape.
+- Removed the darkness in 6-6 to make the practice of the level easier
+- Added a reset music room in 5-4 for 5-4 skip practice. Just enter the door right before the flagpole to get into that room.
+- More coming! 
 
 ### How to play ?
 
@@ -43,7 +34,7 @@ If at any time you want to play to the original game, just return on the Wii men
 
 ### Features request
 
-If you've an idea to make better this mod, feel free to create an [Issue](https://github.com/R0-main/BetterSMBW/issues/new) with the "feature-req" label ! You can also contact me on Discord (Romain#0001)
+If you want a specific level in the hack or wanting to report issues, feel free to send me a DM on Discord (Romain#0001)
 
 ### Tools used for this mod
 
